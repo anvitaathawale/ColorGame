@@ -1,0 +1,29 @@
+
+h1{
+
+color:white;
+}
+
+body{
+
+background-color:#232323;
+}
+
+/*each square taked 30% of container! ...margine between the square 1.6%..which adds to be 100*/
+.square{
+
+width:30%;
+background:purple;
+padding-bottom:30%;
+float:left;
+margin:1.66%
+}
+
+#container{
+
+max-width:600px;
+margin: 0 auto; /*0 margin at the top and bottom of container and auto at leftright*/
+
+}
+
+/*use javascript to give each one of the squares a different color*/
